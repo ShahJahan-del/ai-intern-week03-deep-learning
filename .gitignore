@@ -1,3 +1,4 @@
 *.pt
 *.pth
 data/
+results/
